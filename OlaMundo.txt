@@ -4,7 +4,7 @@ Nesse projeto vamos tentar combater a insegurança no pais.
 
 A seguir, passos que deverão ser seguidos no decorrer do projeto:
 
-Passo 1: Criar documentação
+Passo 1:  Este é o passo 1
 
 Passo 2: Editar a documentação
 
