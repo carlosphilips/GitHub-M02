@@ -6,6 +6,6 @@ A seguir, passos que deverão ser seguidos no decorrer do projeto:
 
 Passo 1:  Este é o passo 1
 
-Passo 2: Este é o passo 2
+Passo 2: Editar a documentação
 
-Passo 3: Este é o passo 3
+Passo 3: Ler a documentação
